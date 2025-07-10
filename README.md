@@ -3,7 +3,7 @@
 In this project i have clean the data from improper Census data and Visualized in Streamlit app
 
 #### Technology Used : 
-Python, Python, PyMongo, MySQL, Streamlit
+Python, PyMongo, MySQL, Streamlit
 
 
 From the Census excel the data extracted and data clean by Pandas. After cleaning data upload to Mongo DB then the data moved to RDBMS. Then cleaned data Visualized in Streamlit app. 
